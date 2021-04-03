@@ -198,24 +198,22 @@ before we do.
 
 ### * * *
 
-```
-UNITED NATIONS DIASPORA AUTHORITY
-      DEPT. CREW PSYCHOLOGY
-
-POST-INCIDENT INTERVIEW TRANSCRIPT
-
-            TS TAG:  EC01-2113:03:24-1043
-NATURE OF INCIDENT:  AGONISTIC PHYSICAL
-                     ENCOUNTER.
-           SUBJECT:  S. AHZMUNDIN; ASS.
-                     ERIOPHORA , F, AGE 7
-                     (CHRON), 13 (DEV)
-       INTERVIEWER:  M. SAWADA, DPC
-       SURV/BIOTEL:  YZZ-284-C04
-  PSYCH COMMENTARY:  YZZ-284-D11
-```
-
 ::: Transcript
+::: header
+United Nations Diaspora Authority\
+Dept. Crew Psychology
+
+Post-Incident Interview Transcript
+:::
+
+---------------------  -----------------------
+              TS Tag:  EC01-2113:03:24-1043
+Nature\ of\ Incident:  Agonistic physical encounter.
+             Subject:  S. Ahzmundin; Ass. *Eriophora*, F, Age 7 (chron), 13 (dev)
+         Interviewer:  M. Sawada, DPC
+         surv/biotel:  YZZ-284-C04
+   Psych\ commentary:  YZZ-284-D11
+---------------------  -----------------------
 
 M. SAWADA: Two fractured ribs and a broken nose. Not
 to mention the black eye.
@@ -492,27 +490,28 @@ Mystery's so hard to come by these days.
 
 ### * * *
 
-```
-    UNITED NATIONS DIASPORA AUTHORITY
-        DEPT. CREW PSYCHOLOGY
+::: Transcript
+::: header
+United Nations Diaspora Authority\
+Dept. Crew Psychology
 
-    POST-INCIDENT INTERVIEW TRANSCRIPT
+Post-Incident Interview Transcript
+:::
 
-
-          TS TAG:  DC25-2121:11:03-1820
-NATURE OF INCIDENT:   AUTODESTRUCTIVE BEHAVIOR
-        SUBJECT:  S. AHZMUNDIN; ASS. ERIOPHORA, F,
-                          AGE 16 (CHRON), 23 (DEV)
-INTERVIEWER:  M. SAWADA, DPC
-  SURV/BIOTEL:  ACD-005-F11
-PSYCH COMMENTARY:  ACD-005-C21
-```
+---------------------  -----------------------
+              TS Tag:  DC25-2121:11:03-1820
+Nature\ of\ Incident:  Autodestructive Behavior
+             Subject:  S. Ahzmundin; Ass. *Eriophora*, F, Age 16 (chron), 23 (dev)
+         Interviewer:  M. Sawada, DPC
+         surv/biotel:  ACD-005-F11
+    Psych commentary:  ACD-005-C21
+---------------------  -----------------------
 
 M. SAWADA: Do you feel better now?
-DEAD AIR: 6 SEC
-  Why did you do it, Sunday?
+[Dead Air: 6 sec]{.deadair}
+Why did you do it, Sunday?
 
-S.  AHZMUNDIN:  You  think  sometime  we  could  have  a
+S. AHZMUNDIN:  You  think  sometime  we  could  have  a
 conversation that *doesn't* start with that line?
 
 MS: Sunday, *why*—
@@ -538,7 +537,7 @@ responsibility for the way their brains are wired? Can they
 reach up and edit their own synapses in some way denied to
 the afflicted?
 
-DEAD AIR: 3 SEC
+[Dead Air: 3 sec]{.deadair}
 
 MS: Believe it or not, you're not the first sixteen-year-old to ask
 these questions. Even unaccelerated adolescents have been
@@ -560,7 +559,7 @@ difference.
 
 MS: Okay, then. Because you're smart enough to know we'd get
 to you in time no matter *what* direction you cut.
-DEAD AIR: 4 SEC
+[Dead Air: 4 sec]{.deadair}
 How many times do we have to tell you, Sunday? These—
 theatrics— aren't necessary. You can just  *leave*. All  you
 have to do is say the word and you can walk right out of
@@ -591,7 +590,7 @@ chance. You were shaped for a purpose.
 SA: Your purpose.
 
 MS: So I guess the tumor makes a difference after all, hmm?
-DEAD AIR: 2 SEC
+[Dead Air: 2 sec]{.deadair}
 Stem cells haven't settled yet. Keep scratching those, you'll
 leave scars.
 
@@ -601,10 +600,12 @@ MS: Sunday—
 
 SA: Fuck you, Mamoro. It's my body, even if it isn't my life.
 Take it out of my damage deposit if you don't like it.
-DEAD AIR: 5 SEC
+[Dead Air: 5 sec]{.deadair}
 
 MS: Try  to  get  some  rest.  Kerr-Newman  sims  at  0845
 tomorrow.
+
+:::
 
 ### * * *
 

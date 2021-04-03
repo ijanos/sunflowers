@@ -45,3 +45,6 @@ div.Transcript span.deadair {
   margin-bottom: 0.4em;
   margin-top: 0.4em;
 }
+div.Transcript table { width: 100%; vertical-align: top; margin-bottom: 1em; }
+div.Transcript td { width: 50%; padding: 0.2em; hyphens: none; vertical-align: top; font-variant-caps: small-caps; }
+div.Transcript div.header p { font-variant-caps: small-caps; text-align: center; }
