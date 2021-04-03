@@ -336,29 +336,23 @@ You're *free*.
 
 ### * * *
 
-```
-    READ CAREFULLY
+::: IEContract
+::: readcarefully
+READ CAREFULLY
+:::
 
-YOU  ARE  ABOUT  TO  EMBARK  UPON  A  JOURNEY
-LEADING  TO  A  COGNITIVE  AUTONOMY  THAT  YOU
-HAVE  NEVER  EXPERIENCED  BEFORE.  WHILE  SOME
-CLIENTS  HAVE  DESCRIBED  THEIR  SUNDIVES  AS
-ECSTATIC, RELIGIOUS, AND PROFOUNDLY FULFILLING,
-INDUSTRIAL  ENLIGHTENMENT  INC.  CAN  NOT
-GUARANTEE     A    PLEASANT    EXPERIENCE.   WE
-CONTRACT  SOLELY  TO  PROVIDE  EXPOSURE  TO  A
-PHYSICAL ENVIRONMENT ALLOWING YOU TO THINK
-YOUR OWN THOUGHTS IN A WAY YOU NEVER COULD
-BEFORE.  WE  ARE  NOT  RESPONSIBLE  FOR  THE
-CONTENT  OF  THOSE  THOUGHTS,  OR  FOR  ANY
-POTENTIAL  TRAUMA  RESULTING  THEREFROM.  BY
-ENTERING    INTO   THIS   CONTRACT,  YOU  ARE
-EXPLICITLY         ABSOLVING          INDUSTRIAL
-ENLIGHTENMENT INC., AND ALL OF ITS AGENTS AND
-REPRESENTATIVES,  FROM  RESPONSIBILITY  FOR  ANY
-NEGATIVE  PSYCHOLOGICAL  IMPACTS  THAT  MAY
-RESULT FROM THIS EXPERIENCE.
-```
+You are about to embark upon a journey leading to a cognitive autonomy that you
+have never experienced before. While some clients have described their sundives
+as *ecstatic*, *religious*, and *profoundly fulfilling*, Industrial
+Enlightenment Inc. can not guarantee a pleasant experience. We contract solely
+to provide exposure to a physical environment allowing you to think your own
+thoughts in a way you never could before. We are not responsible for the
+content of those thoughts, or for any potential trauma resulting therefrom. By
+entering into this contract, you are explicitly absolving Industrial
+Enlightenment inc., and all of its agents and representatives, from
+responsibility for any negative psychological impacts that may result from this
+experience.
+:::
 
 Base Camp is a foil-wrapped potato nine hundred meters long,
 robbed of its spin and left to bake at the Lagrange point just inside
