@@ -20,7 +20,7 @@ best-before, released from amber). Millivolts trickle down some random
 path and an eyelid twitches.
 
 The body shudders, tries to breathe but it's too soon: it's still anoxic
-in there, pure H~2~S gumming up the works and shutting the machinery of
+in there, pure H₂S gumming up the works and shutting the machinery of
 life down to a whisper. The Chimp starts a nitrox flush; swarms of
 fireflies bloom across *Pulmonary* and *Vascular.* Hakim's cold empty
 husk fills with light from the inside out: red and yellow isotherms,
@@ -421,7 +421,7 @@ before the end."
 our life support three orders of mag past spec."
 
 He rolls his eyes. "Then we put everyone back down again. So it spikes
-the CO~2~. Nothing the forest won't be able to clear in a few
+the CO₂. Nothing the forest won't be able to clear in a few
 centuries."
 
 I can barely hear the tremor in his voice.
