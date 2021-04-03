@@ -48,7 +48,7 @@ Hakim stares up at me from the grave, his eyes hard as obsidian.
 
 "You asshole," he says. "I can't believe we haven't killed you yet."
 
-### * * *
+### \* \* \*
 
 I give him space. I retreat to the forest, wander endless twilit caverns
 while he learns to live again. Down here I can barely see my own hand in
@@ -111,7 +111,7 @@ I swallow and nod.
 
 "That's how it starts," I tell him.
 
-### * * *
+### \* \* \*
 
 We're going to hit. We're *aiming* to hit, we're going to let the lesser
 monster devour us before the greater one devours it. We'll lower
@@ -205,7 +205,7 @@ epochs. Christ knows how much of what he heard is truth, lies, legend.
 
 A few million years go by and suddenly I'm the bogeyman.
 
-### * * *
+### \* \* \*
 
 We fall towards ice. Ice falls towards fire. Both spill through the link
 and spread across the back of my skull in glorious terrifying
@@ -313,7 +313,7 @@ Hakim doesn't speak for a moment.
 
 "The day you figure that out," he says, "is the day we lose the war."
 
-### * * *
+### \* \* \*
 
 It's not a war. It's a fucking tantrum. They tried to derail the mission
 and the Chimp stopped them. Simple as that, and perfectly predictable.
@@ -343,7 +343,7 @@ say. It was just a strategy. That was predictable too.
 I'm sure the Chimp would have turned the air back on before things went
 too far.
 
-### * * *
+### \* \* \*
 
 Thule's graduated from world to wall while I wasn't looking: a dark
 churning expanse of thunderheads and planet-shredding tornadoes. There's
@@ -421,8 +421,7 @@ before the end."
 our life support three orders of mag past spec."
 
 He rolls his eyes. "Then we put everyone back down again. So it spikes
-the CO₂. Nothing the forest won't be able to clear in a few
-centuries."
+the CO₂. Nothing the forest won't be able to clear in a few centuries."
 
 I can barely hear the tremor in his voice.
 
@@ -439,7 +438,7 @@ His face goes hard. I keep mine blank.
 
 I'm pretty sure he wasn't serious anyway.
 
-### * * *
+### \* \* \*
 
 The depths of the troposphere. The heart of the storm. Cliffs of water
 and ammonia billow across our path: airborne oceans shattered down to
@@ -498,7 +497,7 @@ It's radiating at over two thousand Kelvin.
 
 If nothing else, it means we're on schedule.
 
-### * * *
+### \* \* \*
 
 We've got so little to go on. We don't know how far we are from the
 ceiling: it keeps ablating away above us. We don't know how close we are
@@ -544,7 +543,7 @@ to stick our heads above the clouds for a better view.
 Whatever it is, the Chimp doesn't think it's worth worrying about. He
 says we're almost through.
 
-### * * *
+### \* \* \*
 
 The storm no longer freezes on impact. It spits and hisses, turns
 instantly to steam. Incessant lightning strobes the sky, stop-animates
@@ -675,7 +674,7 @@ in my head.
 
 Way back along our starboard flank, something's knocking on the door.
 
-### * * *
+### \* \* \*
 
 He's in the prep compartment by the time I catch up, scrambling into an
 EVA suit like some panicky insect trying to climb back into its cocoon.
@@ -876,7 +875,7 @@ shimmers in the rising heat.
 
 I'm saving your life, Hakim. You better fucking appreciate it.
 
-### * * *
+### \* \* \*
 
 Yeats was wrong. The center held after all.
 
@@ -1032,7 +1031,7 @@ protect their precious preconceptions.
 
 It takes a moment for that to sink in.
 
-"Because I don't think you were in on it," he explains. "I don't think
+"Because I don't think you were in on it," he explains. \"I don't think
 you had a clue. How could you? You're not even a whole person, you're
 just a---a glorified subroutine. And subroutines don't question their
 inputs. A thought pops into your head, you just assume it's yours. You
