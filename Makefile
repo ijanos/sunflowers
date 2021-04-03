@@ -4,10 +4,11 @@ all: epub mobi
 epub: sunflowers.epub
 mobi: sunflowers.mobi
 
-sunflowers.epub: island.md metadata.yaml epub.css
+sunflowers.epub: island.md hotshot.md metadata.yaml epub.css
 	pandoc -o $@ -t epub2 --toc --toc-depth=1\
 		--metadata-file metadata.yaml \
-		island.md
+		island.md \
+		hotshot.md
 
 sunflowers.mobi: sunflowers.epub
 	kindlegen sunflowers.epub

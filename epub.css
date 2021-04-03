@@ -37,3 +37,11 @@ span.underline{ text-decoration: underline; }
 q { quotes: "“" "”" "‘" "’"; }
 div.column{ display: inline-block; vertical-align: top; width: 50%; }
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+div.Transcript p { margin-bottom: 0.7em; margin-left: 2.5em; text-indent: -2.5em; }
+div.Transcript span.deadair {
+  display: block;
+  font-variant-caps: small-caps;
+  text-align: center;
+  margin-bottom: 0.4em;
+  margin-top: 0.4em;
+}
