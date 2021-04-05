@@ -1,8 +1,6 @@
 # Hitchhiker
 
-```
-Eriophora Mission Clock 1,138Tsec
-```
+    Eriophora Mission Clock 1,138Tsec
 
 This is the first thing that comes to his mind as his mind begins to
 come together: *something is very wrong*.
@@ -63,7 +61,7 @@ He sighs inwardly. Resigns himself to continued existence.
 
 For the first time in two million years, Viktor Heinwald opens his eyes.
 
-### * * *
+### \* \* \*
 
 Finally he finds his voice: \"We had a deal.\" It sounds like cracking
 ice.
@@ -123,7 +121,7 @@ was the right thing to do...*
 
 \"You didn\'t---deprecate them?\"
 
-\"No. They\'ve been on deck a number of times while you were in
+\"No. They\'ve been on deck a number of times while you were in
 stasis.\"
 
 He\'s silent for a moment. \"I don\'t suppose they ever\...well\...talk
@@ -137,7 +135,7 @@ easy to do that: *Do they talk about those days? Do they talk about me?*
 
 Heinwald takes a breath, and rises from the grave.
 
-### * * *
+### \* \* \*
 
 To human eyes *Araneus* is a hole in space: a dark blot against the
 stars, its edges in constant flux as jagged topography rises and
@@ -321,7 +319,7 @@ Heinwald sighs.
 
 He won\'t be getting back to oblivion any time soon.
 
-### * * *
+### \* \* \*
 
 Chimp printed a diving bell while they wondered and quailed: a magical
 contraption of graphene and ceramic and programmable matter not so much
@@ -354,11 +352,11 @@ shoulders. Ants in spacesuits, carrying ten times their weight without a
 second thought.
 
 Heinwald moves into the corridor and starts putting the cart together
-while the others hump a three-bottle O[2]{style="vertical-align:sub;"}
-cascade in from the shuttle. Once assembled, the cart\'s designed to fit
-through any opening at least as wide as a standard dropgate. It can be
-taken apart in a snap, should it be necessary to portage through rougher
-terrain---a safe bet, based on advance intelligence.
+while the others hump a three-bottle O₂ cascade in from the shuttle.
+Once assembled, the cart\'s designed to fit through any opening at least
+as wide as a standard dropgate. It can be taken apart in a snap, should
+it be necessary to portage through rougher terrain---a safe bet, based
+on advance intelligence.
 
 The corridor fades to black in either direction. Solway, on Nav, checks
 her map for last-second updates and points right. \"That way.\"
@@ -376,7 +374,7 @@ No sound but breathing.
 
 They head out.
 
-### * * *
+### \* \* \*
 
 They lose the first bot ten klicks in, around the point-four isograv.
 
@@ -427,15 +425,11 @@ the rest of the way.\"
 \"Only another thirty kliks or so. You got something against a little
 exercise?\"
 
-\"When it eats into our
-O[2]{style=" font-family:'Times New Roman'; vertical-align:sub;"}
-supply, damn right I do.\"
+\"When it eats into our O₂ supply, damn right I do.\"
 
 \"Look, it\'s simple enough,\" Heinwald says. \"We either go on, go
 back, or wander around blindly in unmapped territory hoping for another
-way in. You want to run through our
-O[2]{style=" font-family:'Times New Roman'; vertical-align:sub;"},
-that\'s the way to do it.\"
+way in. You want to run through our O₂, that\'s the way to do it.\"
 
 They ditch one of the surviving bots in deference to the cart\'s limited
 carrying capacity, leave it powered down to await their return. They bag
@@ -464,12 +458,11 @@ piecemeal map down the well, gaining weight with every meter. They come
 across a dead bot---quite possibly the one that lured them here with its
 last cry---wedged between a coolant pipe and a long-dead roach fused to
 the deck: downed, apparently, by some transient EMP that came and went
-and left no trace. Heinwald keeps one worried eye on the cart\'s
-O[2]{style="vertical-align:sub;"} cascade, cringes inwardly whenever
-someone bleeds down the pressure to replenish a suit tank. He\'s
-half-convinced they\'re burning through their air too fast, that
-they\'ll be well into the bottom half before they even reach their
-destination.
+and left no trace. Heinwald keeps one worried eye on the cart\'s O₂
+cascade, cringes inwardly whenever someone bleeds down the pressure to
+replenish a suit tank. He\'s half-convinced they\'re burning through
+their air too fast, that they\'ll be well into the bottom half before
+they even reach their destination.
 
 Finally they turn one last corner and there it is: a great ridged frame
 embedded in rough-hewn basalt; a great biosteel slab embedded in the
@@ -481,7 +474,7 @@ relaxes a little.
 
 Sixty-three percent remaining.
 
-### * * *
+### \* \* \*
 
 No naked circuits that anyone can see. No rad fields or frayed
 capacitors primed to discharge without warning. It\'s safe to break out
