@@ -9,7 +9,8 @@ sunflowers.epub: island.md hotshot.md giants.md metadata.yaml epub.css
 		--metadata-file metadata.yaml \
 		island.md \
 		hotshot.md \
-		giants.md
+		giants.md \
+		freezeframe.md
 
 sunflowers.mobi: sunflowers.epub
 	kindlegen sunflowers.epub
