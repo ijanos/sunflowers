@@ -2,11 +2,12 @@ body { margin: 5%; text-align: justify; font-size: medium; }
 code { font-family: monospace; }
 h1 {
     text-align: left;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     page-break-before: always;
+    text-transform: uppercase;
 }
 h2 { text-align: left; }
-h3 { text-align: center; }
+h3 { text-align: center; page-break-before: avoid; }
 h4 { text-align: left; }
 h5 { text-align: left; }
 h6 { text-align: left; }
@@ -40,20 +41,21 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 div.Transcript p { margin-bottom: 0.7em; margin-left: 2.5em; text-indent: -2.5em; }
 div.Transcript span.deadair {
   display: block;
-  font-variant-caps: small-caps;
+  font-variant: small-caps;
   text-align: center;
   margin-bottom: 0.4em;
   margin-top: 0.4em;
 }
 div.Transcript table { width: 100%; vertical-align: top; margin-bottom: 1em; }
-div.Transcript td { width: 50%; padding: 0.2em; hyphens: none; vertical-align: top; font-variant-caps: small-caps; }
-div.Transcript div.header p { font-variant-caps: small-caps; text-align: center; }
+div.Transcript td { width: 50%; padding: 0.2em; hyphens: none; vertical-align: top; font-variant: small-caps; -epub-hyphens: none; -webkit-hyphens: none; -ms-hyphens: none; hyphens: none; adobe-hyphenate: none; }
+div.Transcript div.header p { font-variant: small-caps; text-align: center; text-indent: 0; }
 div.IEContract p {
-  font-variant-caps: small-caps;
+  font-variant: small-caps;
   text-align: justify;
-  margin-left: 5em;
-  margin-right: 5em;
+  margin-left: 2em;
+  margin-right: 2em;
   margin-bottom: 1em;
   text-indent: 0;
 }
 div.IEContract div.readcarefully p { text-align: center; }
+div.signal-dots { font-size: 0.7em; }

@@ -167,7 +167,11 @@ raising my voice, just a bit, when addressing the chimp. Obediently
 (*obediently*. Now there's a laugh-and-a-half) the AI wipes the
 spacescape and replaces it with
 
+::: signal-dots
+
     ●●●●● ●  ●  ●  ●  ●   ●   ●    ●     ●      ●      ●        ●          ●
+
+:::
 
 "Repeating sequence," Dix tells me. "Blips don't change, but spacing's a
 log-linear increase cycling every 92.5 corsecs Each cycle starts at 13.2
