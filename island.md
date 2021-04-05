@@ -235,7 +235,7 @@ Dix eyes me as though I've just cast some kind of magic spell.
 Sometimes you've just got to spell things out."
 
 He looks vaguely affronted, but there's no mistaking the surprise
-beneath. He didn't know that. *He didn't know*.
+beneath. He didn't know that. He *didn't know.*
 
 Who the hell's been raising him all this time? Whose problem is this?
 
@@ -290,14 +290,14 @@ mean something behind the vons? Between, between them and us?"
 though? Wouldn't the vons've hit it going down?"
 
 I put my voice back into ChimpComm mode. "What's the current
-field-of-view for *Eri*'s forward scope?"
+field-of-view for *Eri's* forward scope?"
 
 "Eighteen mikes," the chimp reports. "At 428's range, the cone is three
 point three four lightsecs across."
 
 "Increase to a hundred lightsecs."
 
-The *Eri*'s-eye partition swells, obliterating the dissenting viewpoint.
+The *Eri's*-eye partition swells, obliterating the dissenting viewpoint.
 For a moment the sun fills the tank again, paints the whole bridge
 crimson. Then it dwindles as if devoured from within.
 
@@ -332,9 +332,9 @@ remnant. It's a *red dwarf*, placid, middle-aged. Unremarkable.
 
 Except for the fact that it sits dead center of a tenuous gas bubble 1.4
 AUs across. And for the fact that this bubble does not *attenuate* or
-*diffuse* or fade gradually into that good night. No, unless there is
+*diffuse* or *fade* gradually into that good night. No, unless there is
 something seriously wrong with the display, this small, spherical nebula
-extends about 350 lightsecs from its primary and then just stops, its
+extends about 350 lightsecs from its primary and then just *stop*s, its
 boundary far more knife-edged than nature has any right to be.
 
 For the first time in millennia, I miss my cortical pipe. It takes
@@ -496,7 +496,7 @@ multiplet resigned to hating each other to the end of time.
 
 After all the moves and countermoves, the truth is we need each other.
 
-So I wash the rotten-egg stench from my hair and step into *Eri*'s
+So I wash the rotten-egg stench from my hair and step into *Eri's*
 silent cathedral hallways. Sure enough the enemy waits in the darkness,
 turns the lights on as I approach, shuts them off behind me--- but it
 does not break the silence.
@@ -566,7 +566,7 @@ The speed of a passing thought.
 
 And if this thing *does* think, it'll have logic gates, synapses--- it's
 going to be a *net* of some kind. And if the net's big enough, there's
-an I in the middle of it. Just like me, just like Dix. Just like the
+an *I* in the middle of it. Just like me, just like Dix. Just like the
 chimp. (Which is why I educated myself on the subject, back in the early
 tumultuous days of our relationship. Know your enemy and all that.)
 
@@ -579,7 +579,7 @@ B--- the system, well, *decoheres*. The two sides of your brain become
 different people with different tastes, different agendas, different
 senses of themselves.
 
-I shatters into *we*.
+*I* shatters into *we.*
 
 It's not just a human rule, or a mammal rule, or even an Earthly one.
 It's a rule for any circuit that processes information, and it applies
@@ -691,7 +691,7 @@ conclusion?"
 
 That panicked, slaughterhouse look again. "Don't--- I'm not---"
 
-"It is unlikely. It's *astronomically* unlikely that we just happen to
+"It *is* unlikely. It's *astronomically* unlikely that we just happen to
 be aiming at the one intelligent spot on a sphere one-and-a-half AUs
 across. Which means..."
 
@@ -751,7 +751,7 @@ him about Ashby's Law.
 "No. They didn't *turn* it stupid, they *built* it stupid."
 
 "Maybe smarter than you think. You're so much smarter, got *your*
-agenda, how come *he*'s still in control?"
+agenda, how come *he's* still in control?"
 
 "Don't flatter yourself," I say.
 
@@ -910,8 +910,10 @@ tenth of a degree and you've got some serious damage at twenty percent
 lightspeed. Half a degree would tear us apart: the ship might torque
 onto the new heading but the collapsed mass in her belly would keep
 right on going, rip through all this surrounding superstructure without
-even feeling it. Even tame singularities get set in their ways. They do
-not take well to change.
+even feeling it.
+
+Even tame singularities get set in their ways. They do not take well to
+change.
 
 ### \* \* \*
 
@@ -1258,7 +1260,7 @@ it---"
 
 "But the chimp thought you should wake me up anyway, and you always roll
 over for the chimp, don't you? Because the chimp always knows best, the
-chimp's your *boss*, the chimp's your fucking *god*. Which is why I have
+chimp's your *boss*, the chimp's your fucking *god.* Which is why I have
 to get out of bed to nursemaid some idiot savant who can't even answer a
 hail without being led by the nose." Something clicks in the back of my
 mind but I'm on a roll. "You want a *real* role model? You want
@@ -1432,10 +1434,10 @@ bruised and bloody lips.
 
 ### \* \* \*
 
-Back on Earth--- back when there was an Earth--- there were these little
-animals called cats. I had one for a while. Sometimes I'd watch him
-sleep for hours: paws and whiskers and ears all twitching madly as he
-chased imaginary prey across whatever landscapes his sleeping brain
+Back on Earth--- back when there *was* an Earth--- there were these
+little animals called cats. I had one for a while. Sometimes I'd watch
+him sleep for hours: paws and whiskers and ears all twitching madly as
+he chased imaginary prey across whatever landscapes his sleeping brain
 conjured up.
 
 My son looks like that when the chimp worms its way into his dreams.
@@ -1694,7 +1696,7 @@ will be dead. Before we know it.
 
 Our instruments report that we are precisely on target. The chimp tells
 me that we are precisely on target. *Eriophora* falls forward, pulled
-endlessly through the void by her own magically- displaced mass.
+endlessly through the void by her own magically-displaced mass.
 
 I turn to the drone's-eye view relayed from up ahead. It's a window into
 history--- even now, there's a timelag of several minutes--- but past
@@ -1725,7 +1727,7 @@ can be no communion here, no meeting of minds. Angels do not speak to
 ants.
 
 Less than three minutes to ignition. I see light at the end of the
-tunnel. *Eri*'s incidental time machine barely looks into the past any
+tunnel. *Eri's* incidental time machine barely looks into the past any
 more, I could almost hold my breath across the whole span of seconds
 that *then* needs to overtake *now*. Still on target, according to all
 sources.
