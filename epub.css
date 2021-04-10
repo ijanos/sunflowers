@@ -1,10 +1,10 @@
 body { margin: 5%; text-align: justify; font-size: medium; }
 code { font-family: monospace; }
 h1 {
+    font-family: sans-serif;
     text-align: left;
     margin-bottom: 2em;
     page-break-before: always;
-    text-transform: uppercase;
 }
 h2 { text-align: left; }
 h3 { text-align: center; page-break-before: avoid; }
@@ -58,4 +58,4 @@ div.IEContract p {
   text-indent: 0;
 }
 div.IEContract div.readcarefully p { text-align: center; }
-div.signal-dots { font-size: 0.7em; }
+div.signal-dots { font-size: 0.55em; }
