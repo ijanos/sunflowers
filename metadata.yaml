@@ -2,6 +2,6 @@
 title: Sunflower Cycle
 author: Peter Watts
 rights: Attribution-NonCommercial-ShareAlike 2.5 Generic (CC BY-NC-SA 2.5)
-language: en-US
-stylesheet: epub.css
+lang: en-US
+css: epub.css
 #cover-image: cover.jpg
