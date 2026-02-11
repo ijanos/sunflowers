@@ -1,5 +1,7 @@
 # The Island
 
+![cover](./island.jpg)
+
 We are the cave men. We are the Ancients, the Progenitors, the
 blue-collar steel monkeys. We spin your webs and build your magic
 gateways, thread each needle's eye at sixty thousand kilometers a
