@@ -6,11 +6,16 @@ converted to pandoc-specific markdown format for epub and mobi conversion.
 
 Original publication order:
 
-- The Island (The New Space Opera 2, 2009)
-- Hotshot (Reach for Infinity, 2014)
-- Giants (Clarkesworld Magazine, September 2014)
+- [The Island](https://rifters.com/real/shorts/PeterWatts_TheIsland.pdf) (The New Space Opera 2, 2009)
+- [Hotshot](https://rifters.com/real/shorts/PeterWatts_Hotshot.pdf) (Reach for Infinity, 2014)
+- [Giants](https://clarkesworldmagazine.com/watts_09_14_reprint/) (Clarkesworld Magazine, September 2014)
 - The Freeze-Frame Revolution (2018, Tachyon Publications) *not included in this repository*
-- Hitchhiker (2018, published online, the link being hidden inside The Freeze-Frame Revolution)
+- [Hitchhiker](https://rifters.com/Eriophora-Root-Archive-Log-Ahzmundin-frag/derelict.htm) (2018, published online, the link being hidden inside The Freeze-Frame Revolution)
+- [Strategic Retreat](https://www.rifters.com/crawl/?p=9879) (April 5th, 2021 at 8:30, story fragment, published online)
+- [Remora](https://www.rifters.com/crawl/?p=10284) (2022, story fragment, published online. Available through Watt's blog.)
+- [Outtake](https://www.rifters.com/crawl/?p=11409) (2025, story fragment, published online. Available through Watt's blog.)
+
+The chronological order within the Sunflower universe is: "Hotshot", The Freeze-Frame Revolution, "Giants", "Hitchhiker", "Strategic Retreat", "Remora", "Outtake", "The Island".
 
 ## Requirements
 
