@@ -4,7 +4,7 @@ all: epub mobi
 epub: sunflowers.epub
 mobi: sunflowers.mobi
 
-sunflowers.epub: island.md hotshot.md giants.md freezeframe.md hitchhiker.md strategicretreat.md remora.md outtake.md metadata.yaml epub.css
+sunflowers.epub: island.md hotshot.md giants.md freezeframe.md hitchhiker.md strategicretreat.md remora.md outtake.md periscopedepth.md metadata.yaml epub.css
 	pandoc -o $@ -t epub2 --toc --toc-depth=1\
 		--metadata-file metadata.yaml \
 		island.md \
@@ -14,7 +14,8 @@ sunflowers.epub: island.md hotshot.md giants.md freezeframe.md hitchhiker.md str
 		hitchhiker.md \
 		strategicretreat.md \
 		remora.md \
-		outtake.md
+		outtake.md \
+		periscopedepth.md
 
 sunflowers.mobi: sunflowers.epub
 	kindlegen sunflowers.epub
