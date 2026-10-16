@@ -15,8 +15,9 @@ Original publication order:
   2. [Strategic Retreat](https://www.rifters.com/crawl/?p=9879) (April 5th, 2021 at 8:30, story fragment, published online)
   3. [Remora](https://www.rifters.com/crawl/?p=10284) (2022, story fragment, published online. Available through Watt's blog.)
   4. [Outtake](https://www.rifters.com/crawl/?p=11409) (2025, story fragment, published online. Available through Watt's blog.)
+  5. [Periscope Depth](https://www.rifters.com/crawl/?p=11633) (April 10th, 2026 at 1:06 pm,  story fragment, published online. Available through Watt's blog.)
 
-The chronological order within the Sunflower universe is: "Hotshot", The Freeze-Frame Revolution, "Giants", "Hitchhiker", "Strategic Retreat", "Remora", "Outtake", "The Island".
+The chronological order within the Sunflower universe is: "Hotshot", The Freeze-Frame Revolution, "Giants", "Hitchhiker", "Strategic Retreat", "Remora", "Outtake", "Periscope Depth", "The Island".
 
 ## Requirements
 
