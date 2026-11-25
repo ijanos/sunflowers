@@ -4,6 +4,8 @@ A series of stories written by Peter Watts, [available under CC BY-NC-SA 2.5 lic
 website](https://www.rifters.com/real/shorts.htm) as PDF and HTML files. This repository contains the original text
 converted to pandoc-specific markdown format for epub and mobi conversion.
 
+*Gremlin*, the next installment in the Sunflower cycle, is coming in 2027. [Pre-order it from Tachyon Publications](https://tachyonpublications.com/product/gremlin/).
+
 Original publication order:
 
 - [The Island](https://rifters.com/real/shorts/PeterWatts_TheIsland.pdf) (The New Space Opera 2, 2009)
